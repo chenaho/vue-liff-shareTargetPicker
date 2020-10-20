@@ -15,7 +15,8 @@ export default {
     onMounted(async () => {
       try {
         await liff.init({
-          liffId: process.env.VUE_APP_SHARE_ID,
+          // liffId: process.env.VUE_APP_SHARE_ID,
+          liffId: "1511013263-mRKaGAyM",
 
         });
         if (!liff.isLoggedIn())
