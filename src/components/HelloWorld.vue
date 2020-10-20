@@ -16,6 +16,7 @@ export default {
       try {
         await liff.init({
           liffId: process.env.VUE_APP_SHARE_ID,
+
         });
         if (!liff.isLoggedIn())
           liff.login({
@@ -35,7 +36,7 @@ export default {
         try {
           const picker = await liff.shareTargetPicker([{
             type: "text",
-            text: "Hello, World!",
+            text: "Hello, World111!",
           }, ]);
           if (picker) {
             // succeeded in sending a message through TargetPicker
