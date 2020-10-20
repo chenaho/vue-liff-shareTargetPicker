@@ -1,0 +1,230 @@
+{
+    "type": "bubble",
+    "size": "mega",
+    "header": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "box",
+          "layout": "vertical",
+          "contents": [
+            {
+              "type": "text",
+              "text": "承恩堂週三職青小組",
+              "color": "#ffffff66",
+              "size": "sm"
+            },
+            {
+              "type": "text",
+              "text": "專業分享主題",
+              "color": "#ffffff",
+              "size": "xl",
+              "flex": 4,
+              "weight": "bold"
+            }
+          ]
+        }
+      ],
+      "paddingAll": "20px",
+      "backgroundColor": "#0367D3",
+      "spacing": "md",
+      "paddingTop": "22px"
+    },
+    "body": {
+      "type": "box",
+      "layout": "vertical",
+      "contents": [
+        {
+          "type": "text",
+          "text": "Total: 1 hour",
+          "color": "#b7b7b7",
+          "size": "xs"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "height": "12px",
+                  "width": "12px",
+                  "borderColor": "#EF45DD",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "破冰：名謹",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#B7B7B7"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "08:00",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "24px"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "filler"
+                },
+                {
+                  "type": "box",
+                  "layout": "vertical",
+                  "contents": [],
+                  "cornerRadius": "30px",
+                  "height": "12px",
+                  "width": "12px",
+                  "borderColor": "#EF45DD",
+                  "borderWidth": "2px"
+                },
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 0
+            },
+            {
+              "type": "text",
+              "text": "敬拜：宣君",
+              "gravity": "center",
+              "flex": 4,
+              "size": "sm"
+            }
+          ],
+          "spacing": "lg",
+          "cornerRadius": "30px",
+          "margin": "xl"
+        },
+        {
+          "type": "box",
+          "layout": "horizontal",
+          "contents": [
+            {
+              "type": "box",
+              "layout": "baseline",
+              "contents": [
+                {
+                  "type": "filler"
+                }
+              ],
+              "flex": 1
+            },
+            {
+              "type": "box",
+              "layout": "vertical",
+              "contents": [
+                {
+                  "type": "box",
+                  "layout": "horizontal",
+                  "contents": [
+                    {
+                      "type": "filler"
+                    },
+                    {
+                      "type": "box",
+                      "layout": "vertical",
+                      "contents": [],
+                      "width": "2px",
+                      "backgroundColor": "#B7B7B7"
+                    },
+                    {
+                      "type": "filler"
+                    }
+                  ],
+                  "flex": 1
+                }
+              ],
+              "width": "12px"
+            },
+            {
+              "type": "text",
+              "text": "08:20",
+              "gravity": "center",
+              "flex": 4,
+              "size": "xs",
+              "color": "#8c8c8c"
+            }
+          ],
+          "spacing": "lg",
+          "height": "24px"
+        }
+      ]
+    }
+  }
