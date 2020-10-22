@@ -49,6 +49,7 @@ export default {
           if (picker) {
             // succeeded in sending a message through TargetPicker
             console.log(`[${picker.status}] Message sent!`);
+            alert(`[${picker.status}] Message sent!`);
           } else {
             const [majorVer, minorVer] = (liff.getLineVersion() || "").split(
               "."
